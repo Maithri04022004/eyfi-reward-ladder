@@ -1,0 +1,58 @@
+const rewards = [
+  {
+    id: 1,
+    title: "Scout",
+    registrations: 0,
+    milestone: "Selected",
+    description: "Private community + starter kit",
+    side: "left",
+    icon: "🌱",
+  },
+  {
+    id: 2,
+    title: "Campus Ambassador",
+    registrations: 25,
+    milestone: "25 Registrations",
+    description: "Official title + first swag drop",
+    side: "right",
+    icon: "🎓",
+  },
+  {
+    id: 3,
+    title: "Level Up",
+    registrations: 50,
+    milestone: "50 Registrations",
+    description: "Event grants + exclusive merch",
+    side: "left",
+    icon: "🔥",
+  },
+  {
+    id: 4,
+    title: "Go Further",
+    registrations: 75,
+    milestone: "75 Registrations",
+    description: "Mentorship + campus grants",
+    side: "right",
+    icon: "🚀",
+  },
+  {
+    id: 5,
+    title: "Paid Internship",
+    registrations: 100,
+    milestone: "100 Registrations",
+    description: "Internship + ambassador events",
+    side: "left",
+    icon: "💼",
+  },
+  {
+    id: 6,
+    title: "Founding Team",
+    registrations: 200,
+    milestone: "200 Registrations",
+    description: "Founding Team consideration",
+    side: "right",
+    icon: "👑",
+  },
+];
+
+export default rewards;
