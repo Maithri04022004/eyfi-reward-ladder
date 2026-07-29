@@ -1,16 +1,55 @@
-# React + Vite
+# EYFI Reward Ladder UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive Reward Ladder interface built using React for a Campus Ambassador program. The design focuses on gamification, milestone progression, and an engaging user experience for college students.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Interactive reward ladder
+- Milestone-based progression
+- Responsive design
+- Modern card-based UI
+- Smooth animations
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- CSS
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ ├── assets/
+ ├── data/
+ ├── App.jsx
+```
+
+## 🔮 Future Improvements
+
+- Backend integration
+- User authentication
+- Progress tracking
+- Analytics dashboard
+
+## 🎥 Demo Video
+
+A short demonstration of the interactive Reward Ladder UI can be found here:
+
+[▶ View Demo Video](./final_EYFI_demo.mp4)
+
+## 👩‍💻 Author
+
+**Maithri**
+
+
